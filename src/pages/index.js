@@ -13,7 +13,7 @@ const IndexPage = () => (
     <p> Suponga que usted es un supervisor de prácticas en el área informática y necesita realizar las siguientes actividades:
     </p>
     <ol className= "actividades">
-      <li> Revisar el avancé de la estudiante Katherine Salgado: Conocer su progreso y proyecto asignado.</li>
+      <li> Revisar el avance de la estudiante Katherine Salgado: Conocer su progreso y proyecto asignado.</li>
       <li> Terminar la evaluación de Adrián Menares: Realizar cuestionario.</li>
       <li> Contactar al ex-practicante Esteban Barrios.</li>
     </ol>
