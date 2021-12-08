@@ -1,0 +1,17 @@
+.bi {
+    margin-right: 10px;
+}
+
+.card-nota {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.nota-texto {
+    margin-top: 2px;
+    color: green;
+    font-size: 20px;
+    font-weight: 600;
+}

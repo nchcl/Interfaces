@@ -1,0 +1,45 @@
+.perfil-container{
+    width: 100%;
+
+    
+}
+
+.flecha-volver {
+    float: left;
+}
+
+.iconos{
+    margin-bottom: 5px;
+}
+
+.icono-mail {
+    margin-right: 4px;
+}
+
+.icono-linkedin {
+    margin-right: 4px;
+
+}
+
+.practicante-info{
+    margin: 20px;
+    font-size: large;
+}
+
+.foto-perfil {
+    margin-left: 2%;
+    margin-right: 20px;
+    float: left;
+}
+
+svg:hover {
+    fill: "red";
+}
+.name {
+    margin-bottom: 0px;
+}
+
+.progress {
+    width: 200px;
+    align-items: center;
+}

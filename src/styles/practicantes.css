@@ -1,0 +1,14 @@
+.practicantes-title {
+    margin-bottom: 20px;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.iconos{
+    display: flex;
+    flex-direction: row;
+
+}

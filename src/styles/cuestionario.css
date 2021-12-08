@@ -1,0 +1,57 @@
+
+.avatar {
+    float: left;
+}
+
+.profile-info {
+    float:right;
+    margin: 20px;
+}
+
+.links-container {
+    display: flex;
+    box-sizing: inherit;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.finalizar {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+textarea {
+    resize: none;
+}
+
+.tg  {
+    border-collapse:collapse;
+    border-spacing:0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+
+.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+.container-evaluacion {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.flecha-volver {
+    margin-right: 20px;
+}
+
+.foto {
+    margin-right: 20px;
+    float: left;
+
+}

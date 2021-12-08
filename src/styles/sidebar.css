@@ -1,0 +1,30 @@
+.sidebar{
+    background-color: #f1f1f1;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    top:100px;
+    color:black;
+}
+.sidebar-title{
+    width: 100%;
+    display: block;
+    padding: 8px 36px;
+    text-align: left;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+
+}
+.sidebar-item{
+    width: 100%;
+    display: block;
+    padding: 8px 36px;
+    text-align: left;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+    font-size: 18px;
+}

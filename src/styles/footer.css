@@ -1,0 +1,20 @@
+.footer{
+    margin-top: 2rem;
+    background: #023047;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+
+.footer-container{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.footer-container .title{
+    color:white;
+    text-decoration: none;
+}
